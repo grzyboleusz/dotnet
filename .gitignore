@@ -1,4 +1,4 @@
-$HOME/.vs
-$HOME/DRAWER/bin
+/DRAWER/.vs
+/DRAWER/DRAWER/bin
 
-$HOME/DRAWER/obj
+/DRAWER/DRAWER/obj
