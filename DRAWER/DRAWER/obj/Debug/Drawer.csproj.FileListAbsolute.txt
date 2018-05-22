@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\Drawer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\Drawer.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\Drawer.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
