@@ -1,6 +1,6 @@
 ﻿namespace Drawer
 {
-    partial class Form1
+    partial class DawerWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DawerWindow));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.radioButtonAERO = new System.Windows.Forms.RadioButton();

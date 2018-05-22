@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace Drawer
 {
-    public partial class Form1 : Form
+    public partial class DawerWindow : Form
     {
         Bitmap bitmap;
         Bitmap history;
@@ -38,7 +38,7 @@ namespace Drawer
         enum Tools { LINE, RECT, ELLIPSE, FREEHAND, FLOOD_FILL, AERO };
         Tools current_tool = Tools.LINE;
 
-        public Form1()
+        public DawerWindow()
         {
             InitializeComponent();
             
